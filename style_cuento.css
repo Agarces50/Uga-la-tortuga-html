@@ -1,5 +1,5 @@
 .botoncsssi {
-  background-color: #00e74d3f;
+  background-color: #2a00e7ec;
   border: 5px;
   color: black;
   padding: 15px 32px;
@@ -9,7 +9,7 @@
   font-size: 20px;
 }
 .botoncssno {
-  background-color: #00e74d3f;
+  background-color: #2a00e7f5;
   border: 5px;
   color: black;
   padding: 15px 32px;
@@ -17,28 +17,31 @@
   text-decoration: none;
   display: inline-block;
   font-size: 20px;
+  margin-left: 300px;
 }
 
 .textcss {
-  background-color: rgb(255, 79, 9);
+  background-color: rgba(9, 218, 255, 0.815);
   padding: 2em;
   margin-bottom: 2em;
-  font-size: 75px;
+  font-size: 25px;
   color: black;
 }
 
 body {
-  max-width: 30rem;
   margin: 0 auto;
   background-image: url("uga-foto.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
 }
 
 h1 {
-  background-color: blue;
+  background-color: rgba(0, 0, 255, 0.308);
 }
 
 h2 {
-  background-color: #da4307;
+  background-color: #da430793;
   border: 5px;
   color: rgb(255, 255, 255);
 }
