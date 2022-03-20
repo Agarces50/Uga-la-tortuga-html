@@ -1,20 +1,26 @@
 .botoncsssi {
   background-color: #2a00e7ec;
-  border: 5px;
-  color: black;
+  /* border: 5px;
+  color: black; */
   padding: 15px 32px;
   text-align: center;
-  text-decoration: none;
+  /* text-decoration: none; */
   display: inline-block;
   font-size: 20px;
+  margin-left: 33%;
+  border-radius: 40%;
+  border-color: rgb(240, 128, 0);
+  border-style: dashed;
 }
 .botoncssno {
   background-color: #2a00e7f5;
-  border: 5px;
-  color: black;
+  border-radius: 40%;
+  border-color: rgb(240, 128, 0);
+  border-style: dashed;
+  border-box: 20px;
   padding: 15px 32px;
   text-align: center;
-  text-decoration: none;
+  /* text-decoration: none; */
   display: inline-block;
   font-size: 20px;
   margin-left: 300px;
